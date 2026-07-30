@@ -11,7 +11,7 @@
   "PASSWORD": "your_password",
   "OTPKEY": "",
   "BOTNAME": "Ayaan bot",
-  "PREFIX": "\",
+  "PREFIX": "/",
 
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
